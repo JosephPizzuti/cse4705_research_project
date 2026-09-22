@@ -1,0 +1,16 @@
+# Core Data Processing & ETL
+polars>=0.20.0
+pyarrow>=14.0.0
+duckdb>=0.10.0
+
+# Machine Learning & Modeling
+lightgbm>=4.0.0
+xgboost>=2.0.0
+scikit-learn>=1.4.0
+
+# Visualization & Evaluation
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Interactive Notebooks & Environment
+ipykernel>=6.29.0
